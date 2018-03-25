@@ -1,4 +1,4 @@
-const int channel = 1;
+const int channel = 0;
 
 int buttonPin[6] = { 7, 8, 9, 10, 33, 34};
 int ledPin [4] = { 2, 3, 4, 5};
